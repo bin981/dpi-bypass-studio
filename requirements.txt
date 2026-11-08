@@ -1,0 +1,21 @@
+# Python 3.11+ için sabitlenmiş çalışma bağımlılıkları.
+# Sürümler 8 Kasım 2026 tarihinde pydivert 4.0.1, httpx 0.28.1 ve dnspython 2.7.0
+# API'lerine göre seçildi. Bu ortamda testler Python 3.12.3 ile çalıştı.
+customtkinter==5.2.2
+darkdetect==0.8.0
+packaging==26.3
+pydivert==4.0.1
+dnspython==2.7.0
+httpx==0.28.1
+httpcore==1.0.9
+h2==4.3.0
+hpack==4.2.0
+hyperframe==6.1.0
+h11==0.16.0
+anyio==4.16.0
+idna==3.20
+certifi==2026.10.23
+pystray==0.19.5
+pillow==11.3.0
+typing_extensions==4.16.0
+six==1.17.0
